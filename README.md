@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a **Data Analyst** at a big marketplaces, with experience in **SQL, Looker, Excel, and BI**. Currently, I am expanding my knowledge in **Data Science, Programming, and Artificial Intelligence** through a scholarship provided by Oracle. I am always looking to improve my skills and collaborate on projects that challenge and allow me to grow professionally.
+I am a **Data Analyst** at a big marketplace, with experience in **SQL, Looker, Excel, and BI**. Currently, I am expanding my knowledge in **Data Science, Programming, and Artificial Intelligence** through a scholarship provided by Oracle. I am always looking to improve my skills and collaborate on projects that challenge and allow me to grow professionally.
 
 📍 I live in **Brazil**, in the state of **Espírito Santo**.
 
