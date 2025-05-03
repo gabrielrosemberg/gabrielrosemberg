@@ -36,10 +36,10 @@ I am a **Data Analyst** at a big marketplace, with experience in **SQL, Looker, 
 
 I am interested in collaborating on projects that involve:
 
-- **Data analysis and visualization** 📊
-- **Modeling and Machine Learning** 🤖
-- **BI solutions development** 📈
-- **Data integration and ETL** 🔄
+- **Data analysis and visualization**
+- **Modeling and Machine Learning**
+- **BI solutions development**
+- **Data integration and ETL**
 
 ---
 
